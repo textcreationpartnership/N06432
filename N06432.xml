@@ -112,14 +112,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0f6c526c8b6c3d78:008161_0000_0F6B5DFBBA29FBF0"/>
-            <pb facs="tcp:0f6c526c8b6c3d78:008161_0001_0F6B5DFED69455A0"
+            <pb facs="unknown:008161_0000_0F6B5DFBBA29FBF0"/>
+            <pb facs="unknown:008161_0001_0F6B5DFED69455A0"
                 rendition="simple:additions"/>
             <p>A Little Book FOR CHILDREN, CONTAINING A few Rules for the Re<g ref="char:EOLhyphen"/>gulation of their Tho'ts, Words and Actions.</p>
             <p>PORTSMOUTH, <hi>New Hampshire</hi>; Printed by DANIEL FOWLE. 1758.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:0f6c526c8b6c3d78:008161_0002_0F6B5DFEF53619D0"
+            <pb facs="unknown:008161_0002_0F6B5DFEF53619D0"
                 rendition="simple:additions"/>
             <head>PREFACE.</head>
             <opener>
@@ -143,7 +143,7 @@
       </front>
       <body>
          <div n="1" type="chapter">
-            <pb facs="tcp:0f6c526c8b6c3d78:008161_0003_0F6B5DFF80F3D1F8"
+            <pb facs="unknown:008161_0003_0F6B5DFF80F3D1F8"
                 rendition="simple:additions"/>
             <head>CHAP. I. For the Regulation of your <hi>THOUGHTS.</hi>
             </head>
@@ -206,7 +206,7 @@
                <g ref="char:EOLhyphen"/>ver desire what belongs to another.</p>
             <p n="8">
                <pb n="4"
-                   facs="tcp:0f6c526c8b6c3d78:008161_0004_0F6B5E004D069C28"
+                   facs="unknown:008161_0004_0F6B5E004D069C28"
                    rendition="simple:additions"/>8. Remember that the all seeing eye of God is upon you, and that he takes notice of all your thoughts, words, and actions, at all times and in every place<g ref="char:punc">▪</g> and that you must give him <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> account of <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -240,7 +240,7 @@
                   <desc>••</desc>
                </gap>
                <pb n="5"
-                   facs="tcp:0f6c526c8b6c3d78:008161_0005_0F6B5E00F36852F8"
+                   facs="unknown:008161_0005_0F6B5E00F36852F8"
                    rendition="simple:additions"/>
 a lie even to save yourself from the greatest punishment.</p>
             <p n="7">7 Never tattle, nor carry stories from one neighbour to another.</p>
@@ -286,7 +286,7 @@ a lie even to save yourself from the greatest punishment.</p>
                   <desc>•</desc>
                </gap>ntly;
 <pb n="6"
-                   facs="tcp:0f6c526c8b6c3d78:008161_0006_0F6B5E01D552D8D8"
+                   facs="unknown:008161_0006_0F6B5E01D552D8D8"
                    rendition="simple:additions"/>
 try to gain the good will of your Acquain<g ref="char:EOLhyphen"/>tance, by shewing a gentle, condescending, and obliging temper.</p>
             <p n="2">2. Always behave in a modest, humble, and sober manner, for nothing will make every body hate you sooner than a proud, lofty, and scornful carriage.</p>
@@ -339,7 +339,7 @@ try to gain the good will of your Acquain<g ref="char:EOLhyphen"/>tance, by shew
                </gap>hers.</p>
             <p n="7">
                <pb n="7"
-                   facs="tcp:0f6c526c8b6c3d78:008161_0007_0F6B5E0AB963AA68"
+                   facs="unknown:008161_0007_0F6B5E0AB963AA68"
                    rendition="simple:additions"/>7. Never try to make a person angry, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> to give him the least uneasiness.</p>
@@ -366,7 +366,7 @@ try to gain the good will of your Acquain<g ref="char:EOLhyphen"/>tance, by shew
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>y conversation, and forbear to mention the
-<pb n="8" facs="tcp:0f6c526c8b6c3d78:008161_0008_0F6B5E0BFA5F67B8"/>
+<pb n="8" facs="unknown:008161_0008_0F6B5E0BFA5F67B8"/>
 name of God, except it be with the utmost reverence.</p>
             <p n="14">14. Be ready upon every occasion, to do all the offices of kindness in your power, and to shew all the love and respect you can to every body.</p>
             <p n="15">15. Never appear to be in a passion, nor shew yourself out of humour or uneasy in company.</p>
@@ -382,7 +382,7 @@ name of God, except it be with the utmost reverence.</p>
                </gap>ry morning and even<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ing<g ref="char:punc">▪</g>
-               <pb n="9" facs="tcp:0f6c526c8b6c3d78:008161_0009_0F6B5E0CB23A4E90"/>
+               <pb n="9" facs="unknown:008161_0009_0F6B5E0CB23A4E90"/>
 and thankfully acknowledge all his kind<g ref="char:EOLhyphen"/>ness to you.</p>
             <p n="20">20. To conclude; If you would be good children, are desirous of going to heaven when you die, you must love God with all your hearts, delight in his service, and try all you can to please him: Be sober, modest, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -413,7 +413,7 @@ and thankfully acknowledge all his kind<g ref="char:EOLhyphen"/>ness to you.</p>
             <p>
                <hi>A.</hi> To love, serve, and obey him.</p>
             <p>
-               <pb n="10" facs="tcp:0f6c526c8b6c3d78:008161_0010_0F6B5E0CF77BC7F8"/>Q 4. <hi>How must you love, serve, and obey <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="10" facs="unknown:008161_0010_0F6B5E0CF77BC7F8"/>Q 4. <hi>How must you love, serve, and obey <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>od?</hi>
             </p>
@@ -462,7 +462,7 @@ and thankfully acknowledge all his kind<g ref="char:EOLhyphen"/>ness to you.</p>
                </hi>
             </p>
             <p>
-               <pb n="11" facs="tcp:0f6c526c8b6c3d78:008161_0011_0F6B5E0DC4D01228"/>
+               <pb n="11" facs="unknown:008161_0011_0F6B5E0DC4D01228"/>
                <hi>A.</hi> Yes, if I trust in his mercy for the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
@@ -526,7 +526,7 @@ and thankfully acknowledge all his kind<g ref="char:EOLhyphen"/>ness to you.</p>
                   </gap>.</l>
             </lg>
             <lg n="2">
-               <pb n="12" facs="tcp:0f6c526c8b6c3d78:008161_0012_0F6B5E0E76087D30"/>
+               <pb n="12" facs="unknown:008161_0012_0F6B5E0E76087D30"/>
                <head>2.</head>
                <l>Rise when the early morning springs<g ref="char:punc">▪</g>
                </l>
@@ -575,7 +575,7 @@ and thankfully acknowledge all his kind<g ref="char:EOLhyphen"/>ness to you.</p>
                      <desc>〈◊〉</desc>
                   </gap> in songs with one accord,</l>
                <l>
-                  <pb n="13" facs="tcp:0f6c526c8b6c3d78:008161_0013_0F6B5E0F377F5238"/>Nor be of such ungrateful nature<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="13" facs="unknown:008161_0013_0F6B5E0F377F5238"/>Nor be of such ungrateful nature<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>,</l>
                <l>To forget your gracious Lord.</l>
@@ -631,7 +631,7 @@ and thankfully acknowledge all his kind<g ref="char:EOLhyphen"/>ness to you.</p>
                </gap>very <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="14" facs="tcp:0f6c526c8b6c3d78:008161_0014_0F6B5E12593BAFB0"/>
+               <pb n="14" facs="unknown:008161_0014_0F6B5E12593BAFB0"/>
 and evening, and ble<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> God for his goodnes<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -717,7 +717,7 @@ and evening, and ble<gap reason="illegible" resp="#PDCC" extent="2 letters">
                </gap> my good. Accordingly <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="15" facs="tcp:0f6c526c8b6c3d78:008161_0015_0F6B5E1543957718"/>
+               <pb n="15" facs="unknown:008161_0015_0F6B5E1543957718"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> many days after, as she was walking upon <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -768,7 +768,7 @@ and evening, and ble<gap reason="illegible" resp="#PDCC" extent="2 letters">
                </gap>ondness <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he
-<pb n="16" facs="tcp:0f6c526c8b6c3d78:008161_0016_0F6B5E15F343B3F8"/>
+<pb n="16" facs="unknown:008161_0016_0F6B5E15F343B3F8"/>
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ways felt <gap reason="illegible" resp="#PDCC" extent="1 letter">
